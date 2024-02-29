@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+h1{
+    text-align: center;
+}
+hr{
+    height: 10px;
+    background-color: rgb(219, 20, 126);
+}
+h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+p{
+    font-size: 28px;
+}
+.main{
+    color: brown;
+    font-size: 36px;
+     background-color: rgb(205, 200, 200);
+     border: solid black thin;
+     padding-left: 40px;
+     padding-top: 100px;
+     margin-bottom: 200px;
+}
+#latty{
+    font-family: cursive;
+}
